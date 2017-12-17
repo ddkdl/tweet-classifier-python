@@ -3,8 +3,6 @@
 from SVM import SVM
 from PreProcessor import PreProcessor
 from Validator import Validator
-from LinearKernel import LinearKernel
-from PolynomialKernel import PolynomialKernel
 from GaussianKernel import GaussianKernel
 import numpy as np
 
