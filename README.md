@@ -1,2 +1,2 @@
-# tweet-classifier-python
+# Tweet Classifier for chronic diseases
 Tweet classifier
