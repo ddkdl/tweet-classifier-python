@@ -55,8 +55,8 @@ if __name__ == "__main__":
 
         val.validate(validationLabels, predictions)
 
-        predFile = open("results/asthma_linear_kernel_c_" + c + ".txt", "w")
-        statFile = open("results/asthma_linear_kernel_c_" + c + "_stats.txt", "w")
+        predFile = open("results/asthma_linear_kernel_c_" + str(c) + ".txt", "w")
+        statFile = open("results/asthma_linear_kernel_c_" + str(c) + "_stats.txt", "w")
     
         for prediction in predictions:
             predFile.write("%d\n" % prediction)
@@ -80,8 +80,8 @@ if __name__ == "__main__":
 
         val.validate(validationLabels, predictions)
 
-        predFile = open("results/asthma_polynomial_kernel_c_" + c + ".txt", "w")
-        statFile = open("results/asthma_polynomial_kernel_c_" + c + "_stats.txt", "w")
+        predFile = open("results/asthma_polynomial_kernel_c_" + str(c) + ".txt", "w")
+        statFile = open("results/asthma_polynomial_kernel_c_" + str(c) + "_stats.txt", "w")
     
         for prediction in predictions:
             predFile.write("%d\n" % prediction)
@@ -106,8 +106,8 @@ if __name__ == "__main__":
 
             val.validate(validationLabels, predictions)
 
-            predFile = open("results/asthma_gaussian_kernel_s_" + sigma + "_c_" + c + ".txt", "w")
-            statFile = open("results/asthma_gaussian_kernel_s_" + sigma + "_c_" + c + "_stats.txt", "w")
+            predFile = open("results/asthma_gaussian_kernel_s_" + str(sigma) + "_c_" + str(c) + ".txt", "w")
+            statFile = open("results/asthma_gaussian_kernel_s_" + str(sigma) + "_c_" + str(c) + "_stats.txt", "w")
         
             for prediction in predictions:
                 predFile.write("%d\n" % prediction)

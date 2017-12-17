@@ -1,0 +1,7 @@
+True Positives:      24710
+True Negatives:      2188 
+False Positives:     4082 
+False Negatives:     2020 
+
+Accuracy:            0.86
+Recall:              0.92
