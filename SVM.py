@@ -1,21 +1,12 @@
 # Author Alvaro Esperanca
 
 import numpy as np
-from numpy import linalg
 import cvxopt.solvers
-
-def linear_kernel(x1, x2):
-    return np.dot(x1, x2)
-
-def polynomial_kernel(x, y, p=3):
-    return (1 + np.dot(x, y)) ** p
-
-def gaussian_kernel(x, y, sigma=5000.0):
-    return np.exp(-linalg.norm(x-y)**2 / (2 * (sigma ** 2)))
-
+from Kernel import Kernel
+from LinearKernel import LinearKernel
 
 class SVM(object):
-    def __init__(self, kernel=linear_kernel, C=None):
+    def __init__(self, kernel=Kernel, C=None):
         self.kernel = kernel
         self.C = C
         if self.C is not None: self.C = float(self.C)
@@ -27,7 +18,7 @@ class SVM(object):
 
         for i in range(n_samples):
             for j in range(n_samples):
-                K[i,j] = self.kernel(X[i], X[j])
+                K[i,j] = self.kernel.eval(X[i], X[j])
 
         P = cvxopt.matrix(np.outer(y,y) * K)
 
@@ -64,7 +55,7 @@ class SVM(object):
             self.b -= np.sum(self.a * self.sv_y * K[ind[n], sv])
         self.b /= len(self.a)
 
-        if self.kernel == linear_kernel:
+        if type( self.kernel ) is LinearKernel:
             self.w = np.zeros(n_features)
             for n in range(len(self.a)):
                 self.w += self.a[n] * self.sv_y[n] * self.sv[n]
@@ -79,7 +70,7 @@ class SVM(object):
             for i in range(len(X)):
                 s = 0
                 for a, sv_y, sv in zip(self.a, self.sv_y, self.sv):
-                    s += a * sv_y * self.kernel(X[i], sv)
+                    s += a * sv_y * self.kernel.eval(X[i], sv)
                 y_predict[i] = s
             return y_predict + self.b
 

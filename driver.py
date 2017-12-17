@@ -3,23 +3,14 @@
 from SVM import SVM
 from PreProcessor import PreProcessor
 from Validator import Validator
+from GaussianKernel import GaussianKernel
 import numpy as np
-
-
-def linear_kernel(x1, x2):
-    return np.dot(x1, x2)
-
-def polynomial_kernel(x, y, p=3):
-    return (1 + np.dot(x, y)) ** p
-
-def gaussian_kernel(x, y, sigma=5000.0):
-    return np.exp(-np.linalg.norm(x-y)**2 / (2 * (sigma ** 2)))
 
 
 if __name__ == "__main__":
     pre = PreProcessor()
     val = Validator()
-    clf = SVM(kernel=gaussian_kernel, C=5.0)
+    clf = SVM(kernel=GaussianKernel(5.0), C=1.0)
 
     X_train, y_train = pre.loadTrainingSet("training_data/Cancer_Sample_Tokenized.csv")
     X_test = pre.loadTestSet("test_data/Tokenized_Cancer_test.csv")
