@@ -11,7 +11,6 @@ import numpy as np
 
 if __name__ == "__main__":
     pre = PreProcessor()
-    val = Validator()
 
     # Setting up training dataset
     X_train, y_train = pre.loadTrainingSet("training_data/Asthma_Sample_Tokenized.csv")
@@ -49,7 +48,8 @@ if __name__ == "__main__":
     # Testing linear kernel
     for c in c_list:
         clf = SVM(kernel=LinearKernel(), C=c)
-
+        val = Validator()
+        
         clf.fit(X_train, y_train)
         predictions = clf.predict(X_test)
 
