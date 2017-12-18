@@ -49,7 +49,7 @@ if __name__ == "__main__":
     for c in c_list:
         clf = SVM(kernel=LinearKernel(), C=c)
         val = Validator()
-        
+
         clf.fit(X_train, y_train)
         predictions = clf.predict(X_test)
 
@@ -74,6 +74,7 @@ if __name__ == "__main__":
     # Testing polynomial kernel
     for c in c_list:
         clf = SVM(kernel=PolynomialKernel(), C=c)
+        val = Validator()
 
         clf.fit(X_train, y_train)
         predictions = clf.predict(X_test)
@@ -100,7 +101,8 @@ if __name__ == "__main__":
     for sigma in sigma_list:
         for c in c_list:
             clf = SVM(kernel=GaussianKernel(sigma), C=c)
-
+            val = Validator()
+            
             clf.fit(X_train, y_train)
             predictions = clf.predict(X_test)
 
