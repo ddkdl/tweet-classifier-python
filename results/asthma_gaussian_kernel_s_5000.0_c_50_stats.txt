@@ -1,7 +1,7 @@
-True Positives:      43486
-True Negatives:      4395 
-False Positives:     2548 
-False Negatives:     2571 
+True Positives:      38933
+True Negatives:      3660 
+False Positives:     2497 
+False Negatives:     1910 
 
 Accuracy:            0.94
-Recall:              0.94
+Recall:              0.95
