@@ -27,6 +27,8 @@ def main():
     # Classifying tweets
     for year in ["2010", "2011", "2012", "2013", "2014"]:
         for entry in years[year]:
+            print "Classifying %s %s" % (year, entry)
+            
             X = pre.loadTestSet("./data/Cancer/" + year + "/" + entry)
             predictions = clf.predict(X)
             
