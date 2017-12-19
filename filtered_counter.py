@@ -1,8 +1,7 @@
 # Author: Alvaro Esperanca
 
 from os import listdir
-import sys
-
+import sys, csv
 
 def main(args):
     if len(args) != 1:
@@ -36,8 +35,10 @@ def main(args):
                 else:
                     F += 1
             
-            outputFile = open("./filtered_labels/" + query + "/stats.txt", "a")
-            outputFile.write("Tweet count for %s %s\nRelevant: %d Irrelevant: %d\n\n" % (entry, year, T, F))
+            outputFile = open("./filtered_labels/" + query + "/stats.csv", "a")
+
+            csvWriter = csv.DictWriter(outputFile, fieldnames=["state", "year", "relevant", "irrelevant"])
+            csvWriter.writerow({"state": entry, "year": year, "relevant": T, "irrelevant": F})
 
             outputFile.close()
 
