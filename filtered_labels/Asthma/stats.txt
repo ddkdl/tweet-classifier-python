@@ -1,0 +1,1566 @@
+Tweet count for Nevada.txt 2010
+Relevant: 22 Irrelevant: 1
+
+Tweet count for alt_Kansas.txt 2010
+Relevant: 0 Irrelevant: 0
+
+Tweet count for New Hampshire.txt 2010
+Relevant: 5 Irrelevant: 0
+
+Tweet count for alt_South Dakota.txt 2010
+Relevant: 0 Irrelevant: 1
+
+Tweet count for alt_Montana.txt 2010
+Relevant: 0 Irrelevant: 0
+
+Tweet count for Nebraska.txt 2010
+Relevant: 1 Irrelevant: 1
+
+Tweet count for alt_Missouri.txt 2010
+Relevant: 0 Irrelevant: 2
+
+Tweet count for alt_Alabama.txt 2010
+Relevant: 2 Irrelevant: 3
+
+Tweet count for alt_Maine.txt 2010
+Relevant: 0 Irrelevant: 0
+
+Tweet count for alt_Oregon.txt 2010
+Relevant: 1 Irrelevant: 0
+
+Tweet count for Rhode Island.txt 2010
+Relevant: 5 Irrelevant: 3
+
+Tweet count for Delaware.txt 2010
+Relevant: 2 Irrelevant: 0
+
+Tweet count for alt_North Dakota.txt 2010
+Relevant: 0 Irrelevant: 2
+
+Tweet count for Iowa.txt 2010
+Relevant: 9 Irrelevant: 0
+
+Tweet count for South Dakota.txt 2010
+Relevant: 3 Irrelevant: 0
+
+Tweet count for Texas.txt 2010
+Relevant: 115 Irrelevant: 87
+
+Tweet count for alt_Florida.txt 2010
+Relevant: 4 Irrelevant: 4
+
+Tweet count for alt_Puerto Rico.txt 2010
+Relevant: 0 Irrelevant: 0
+
+Tweet count for Mississippi.txt 2010
+Relevant: 17 Irrelevant: 1
+
+Tweet count for alt_New York.txt 2010
+Relevant: 6 Irrelevant: 10
+
+Tweet count for alt_Arizona.txt 2010
+Relevant: 0 Irrelevant: 4
+
+Tweet count for alt_Indiana.txt 2010
+Relevant: 0 Irrelevant: 0
+
+Tweet count for alt_Nevada.txt 2010
+Relevant: 0 Irrelevant: 1
+
+Tweet count for alt_Tennessee.txt 2010
+Relevant: 0 Irrelevant: 3
+
+Tweet count for alt_Michigan.txt 2010
+Relevant: 0 Irrelevant: 4
+
+Tweet count for Minnesota.txt 2010
+Relevant: 9 Irrelevant: 5
+
+Tweet count for alt_Oklahoma.txt 2010
+Relevant: 1 Irrelevant: 1
+
+Tweet count for Ohio.txt 2010
+Relevant: 58 Irrelevant: 3
+
+Tweet count for Michigan.txt 2010
+Relevant: 60 Irrelevant: 38
+
+Tweet count for Georgia.txt 2010
+Relevant: 87 Irrelevant: 16
+
+Tweet count for Oregon.txt 2010
+Relevant: 11 Irrelevant: 5
+
+Tweet count for Colorado.txt 2010
+Relevant: 20 Irrelevant: 0
+
+Tweet count for alt_District Of Columbia.txt 2010
+Relevant: 1 Irrelevant: 0
+
+Tweet count for alt_California.txt 2010
+Relevant: 6 Irrelevant: 5
+
+Tweet count for Maryland.txt 2010
+Relevant: 66 Irrelevant: 12
+
+Tweet count for alt_Wyoming.txt 2010
+Relevant: 0 Irrelevant: 0
+
+Tweet count for Florida.txt 2010
+Relevant: 66 Irrelevant: 42
+
+Tweet count for Arizona.txt 2010
+Relevant: 21 Irrelevant: 12
+
+Tweet count for alt_Massachusetts.txt 2010
+Relevant: 1 Irrelevant: 4
+
+Tweet count for alt_Virginia.txt 2010
+Relevant: 1 Irrelevant: 1
+
+Tweet count for Hawaii.txt 2010
+Relevant: 8 Irrelevant: 0
+
+Tweet count for Indiana.txt 2010
+Relevant: 20 Irrelevant: 7
+
+Tweet count for Wyoming.txt 2010
+Relevant: 0 Irrelevant: 5
+
+Tweet count for alt_South Carolina.txt 2010
+Relevant: 0 Irrelevant: 12
+
+Tweet count for alt_Delaware.txt 2010
+Relevant: 0 Irrelevant: 1
+
+Tweet count for alt_Iowa.txt 2010
+Relevant: 0 Irrelevant: 0
+
+Tweet count for alt_New Hampshire.txt 2010
+Relevant: 0 Irrelevant: 0
+
+Tweet count for alt_Vermont.txt 2010
+Relevant: 0 Irrelevant: 0
+
+Tweet count for Massachusetts.txt 2010
+Relevant: 45 Irrelevant: 2
+
+Tweet count for alt_Pennsylvania.txt 2010
+Relevant: 1 Irrelevant: 6
+
+Tweet count for Montana.txt 2010
+Relevant: 0 Irrelevant: 0
+
+Tweet count for alt_Texas.txt 2010
+Relevant: 2 Irrelevant: 6
+
+Tweet count for alt_Utah.txt 2010
+Relevant: 2 Irrelevant: 0
+
+Tweet count for alt_Illinois.txt 2010
+Relevant: 1 Irrelevant: 3
+
+Tweet count for alt_Kentucky.txt 2010
+Relevant: 0 Irrelevant: 0
+
+Tweet count for alt_Louisiana.txt 2010
+Relevant: 2 Irrelevant: 0
+
+Tweet count for alt_West Virginia.txt 2010
+Relevant: 1 Irrelevant: 1
+
+Tweet count for Virginia.txt 2010
+Relevant: 51 Irrelevant: 17
+
+Tweet count for New Mexico.txt 2010
+Relevant: 4 Irrelevant: 0
+
+Tweet count for alt_North Carolina.txt 2010
+Relevant: 0 Irrelevant: 9
+
+Tweet count for alt_Nebraska.txt 2010
+Relevant: 0 Irrelevant: 0
+
+Tweet count for Alaska.txt 2010
+Relevant: 0 Irrelevant: 0
+
+Tweet count for Kentucky.txt 2010
+Relevant: 11 Irrelevant: 9
+
+Tweet count for Oklahoma.txt 2010
+Relevant: 29 Irrelevant: 9
+
+Tweet count for .txt 2010
+Relevant: 0 Irrelevant: 0
+
+Tweet count for West Virginia.txt 2010
+Relevant: 2 Irrelevant: 1
+
+Tweet count for California.txt 2010
+Relevant: 180 Irrelevant: 58
+
+Tweet count for Missouri.txt 2010
+Relevant: 29 Irrelevant: 2
+
+Tweet count for alt_Minnesota.txt 2010
+Relevant: 0 Irrelevant: 1
+
+Tweet count for Louisiana.txt 2010
+Relevant: 65 Irrelevant: 6
+
+Tweet count for Maine.txt 2010
+Relevant: 0 Irrelevant: 1
+
+Tweet count for alt_Colorado.txt 2010
+Relevant: 2 Irrelevant: 0
+
+Tweet count for Kansas.txt 2010
+Relevant: 5 Irrelevant: 0
+
+Tweet count for New Jersey.txt 2010
+Relevant: 59 Irrelevant: 12
+
+Tweet count for alt_Alaska.txt 2010
+Relevant: 0 Irrelevant: 0
+
+Tweet count for alt_Arkansas.txt 2010
+Relevant: 0 Irrelevant: 1
+
+Tweet count for South Carolina.txt 2010
+Relevant: 23 Irrelevant: 5
+
+Tweet count for alt_Winsconsin.txt 2010
+Relevant: 2 Irrelevant: 1
+
+Tweet count for alt_Georgia.txt 2010
+Relevant: 1 Irrelevant: 7
+
+Tweet count for Illinois.txt 2010
+Relevant: 64 Irrelevant: 3
+
+Tweet count for alt_New Jersey.txt 2010
+Relevant: 7 Irrelevant: 5
+
+Tweet count for Tennessee.txt 2010
+Relevant: 26 Irrelevant: 14
+
+Tweet count for Arkansas.txt 2010
+Relevant: 5 Irrelevant: 0
+
+Tweet count for alt_Maryland.txt 2010
+Relevant: 3 Irrelevant: 4
+
+Tweet count for Connecticut.txt 2010
+Relevant: 16 Irrelevant: 0
+
+Tweet count for Utah.txt 2010
+Relevant: 13 Irrelevant: 0
+
+Tweet count for Alabama.txt 2010
+Relevant: 0 Irrelevant: 0
+
+Tweet count for Washington.txt 2010
+Relevant: 20 Irrelevant: 4
+
+Tweet count for Pennsylvania.txt 2010
+Relevant: 98 Irrelevant: 32
+
+Tweet count for alt_Rhode Island.txt 2010
+Relevant: 0 Irrelevant: 0
+
+Tweet count for alt_New Mexico.txt 2010
+Relevant: 1 Irrelevant: 0
+
+Tweet count for Idaho.txt 2010
+Relevant: 2 Irrelevant: 0
+
+Tweet count for alt_Ohio.txt 2010
+Relevant: 2 Irrelevant: 2
+
+Tweet count for alt_Mississippi.txt 2010
+Relevant: 0 Irrelevant: 0
+
+Tweet count for alt_Washington.txt 2010
+Relevant: 1 Irrelevant: 0
+
+Tweet count for alt_Idaho.txt 2010
+Relevant: 0 Irrelevant: 0
+
+Tweet count for North Carolina.txt 2010
+Relevant: 42 Irrelevant: 3
+
+Tweet count for New York.txt 2010
+Relevant: 181 Irrelevant: 37
+
+Tweet count for Winsconsin.txt 2010
+Relevant: 28 Irrelevant: 5
+
+Tweet count for alt_Hawaii.txt 2010
+Relevant: 0 Irrelevant: 1
+
+Tweet count for North Dakota.txt 2010
+Relevant: 3 Irrelevant: 0
+
+Tweet count for Vermont.txt 2010
+Relevant: 3 Irrelevant: 0
+
+Tweet count for Puerto Rico.txt 2010
+Relevant: 3 Irrelevant: 0
+
+Tweet count for alt_Connecticut.txt 2010
+Relevant: 0 Irrelevant: 2
+
+Tweet count for District Of Columbia.txt 2010
+Relevant: 23 Irrelevant: 2
+
+Tweet count for Nevada.txt 2011
+Relevant: 20 Irrelevant: 1
+
+Tweet count for alt_Kansas.txt 2011
+Relevant: 1 Irrelevant: 0
+
+Tweet count for New Hampshire.txt 2011
+Relevant: 5 Irrelevant: 1
+
+Tweet count for alt_South Dakota.txt 2011
+Relevant: 1 Irrelevant: 0
+
+Tweet count for alt_Montana.txt 2011
+Relevant: 0 Irrelevant: 0
+
+Tweet count for Nebraska.txt 2011
+Relevant: 9 Irrelevant: 11
+
+Tweet count for alt_Missouri.txt 2011
+Relevant: 4 Irrelevant: 1
+
+Tweet count for alt_Alabama.txt 2011
+Relevant: 5 Irrelevant: 1
+
+Tweet count for alt_Maine.txt 2011
+Relevant: 0 Irrelevant: 1
+
+Tweet count for alt_Oregon.txt 2011
+Relevant: 0 Irrelevant: 0
+
+Tweet count for Rhode Island.txt 2011
+Relevant: 20 Irrelevant: 15
+
+Tweet count for Delaware.txt 2011
+Relevant: 41 Irrelevant: 0
+
+Tweet count for alt_North Dakota.txt 2011
+Relevant: 0 Irrelevant: 0
+
+Tweet count for Iowa.txt 2011
+Relevant: 12 Irrelevant: 6
+
+Tweet count for South Dakota.txt 2011
+Relevant: 8 Irrelevant: 4
+
+Tweet count for Texas.txt 2011
+Relevant: 534 Irrelevant: 168
+
+Tweet count for alt_Florida.txt 2011
+Relevant: 14 Irrelevant: 6
+
+Tweet count for alt_Puerto Rico.txt 2011
+Relevant: 0 Irrelevant: 0
+
+Tweet count for Mississippi.txt 2011
+Relevant: 116 Irrelevant: 4
+
+Tweet count for alt_New York.txt 2011
+Relevant: 6 Irrelevant: 13
+
+Tweet count for alt_Arizona.txt 2011
+Relevant: 1 Irrelevant: 0
+
+Tweet count for alt_Indiana.txt 2011
+Relevant: 1 Irrelevant: 1
+
+Tweet count for alt_Nevada.txt 2011
+Relevant: 0 Irrelevant: 0
+
+Tweet count for alt_Tennessee.txt 2011
+Relevant: 1 Irrelevant: 2
+
+Tweet count for alt_Michigan.txt 2011
+Relevant: 4 Irrelevant: 9
+
+Tweet count for Minnesota.txt 2011
+Relevant: 29 Irrelevant: 16
+
+Tweet count for alt_Oklahoma.txt 2011
+Relevant: 2 Irrelevant: 1
+
+Tweet count for Ohio.txt 2011
+Relevant: 169 Irrelevant: 51
+
+Tweet count for Michigan.txt 2011
+Relevant: 191 Irrelevant: 117
+
+Tweet count for Georgia.txt 2011
+Relevant: 207 Irrelevant: 101
+
+Tweet count for Oregon.txt 2011
+Relevant: 81 Irrelevant: 26
+
+Tweet count for Colorado.txt 2011
+Relevant: 52 Irrelevant: 40
+
+Tweet count for alt_District Of Columbia.txt 2011
+Relevant: 0 Irrelevant: 4
+
+Tweet count for alt_California.txt 2011
+Relevant: 15 Irrelevant: 16
+
+Tweet count for Maryland.txt 2011
+Relevant: 239 Irrelevant: 28
+
+Tweet count for alt_Wyoming.txt 2011
+Relevant: 0 Irrelevant: 0
+
+Tweet count for Florida.txt 2011
+Relevant: 281 Irrelevant: 62
+
+Tweet count for Arizona.txt 2011
+Relevant: 54 Irrelevant: 23
+
+Tweet count for alt_Massachusetts.txt 2011
+Relevant: 4 Irrelevant: 2
+
+Tweet count for alt_Virginia.txt 2011
+Relevant: 4 Irrelevant: 2
+
+Tweet count for Hawaii.txt 2011
+Relevant: 10 Irrelevant: 0
+
+Tweet count for Indiana.txt 2011
+Relevant: 85 Irrelevant: 4
+
+Tweet count for Wyoming.txt 2011
+Relevant: 1 Irrelevant: 6
+
+Tweet count for alt_South Carolina.txt 2011
+Relevant: 4 Irrelevant: 2
+
+Tweet count for alt_Delaware.txt 2011
+Relevant: 0 Irrelevant: 0
+
+Tweet count for alt_Iowa.txt 2011
+Relevant: 1 Irrelevant: 1
+
+Tweet count for alt_New Hampshire.txt 2011
+Relevant: 0 Irrelevant: 1
+
+Tweet count for alt_Vermont.txt 2011
+Relevant: 0 Irrelevant: 0
+
+Tweet count for Massachusetts.txt 2011
+Relevant: 141 Irrelevant: 7
+
+Tweet count for alt_Pennsylvania.txt 2011
+Relevant: 11 Irrelevant: 6
+
+Tweet count for Montana.txt 2011
+Relevant: 0 Irrelevant: 0
+
+Tweet count for alt_Texas.txt 2011
+Relevant: 12 Irrelevant: 23
+
+Tweet count for alt_Utah.txt 2011
+Relevant: 0 Irrelevant: 0
+
+Tweet count for alt_Illinois.txt 2011
+Relevant: 6 Irrelevant: 5
+
+Tweet count for alt_Kentucky.txt 2011
+Relevant: 0 Irrelevant: 2
+
+Tweet count for alt_Louisiana.txt 2011
+Relevant: 15 Irrelevant: 21
+
+Tweet count for alt_West Virginia.txt 2011
+Relevant: 2 Irrelevant: 0
+
+Tweet count for Virginia.txt 2011
+Relevant: 132 Irrelevant: 41
+
+Tweet count for New Mexico.txt 2011
+Relevant: 9 Irrelevant: 6
+
+Tweet count for alt_North Carolina.txt 2011
+Relevant: 6 Irrelevant: 5
+
+Tweet count for alt_Nebraska.txt 2011
+Relevant: 1 Irrelevant: 2
+
+Tweet count for Alaska.txt 2011
+Relevant: 0 Irrelevant: 0
+
+Tweet count for Kentucky.txt 2011
+Relevant: 35 Irrelevant: 8
+
+Tweet count for Oklahoma.txt 2011
+Relevant: 35 Irrelevant: 6
+
+Tweet count for West Virginia.txt 2011
+Relevant: 21 Irrelevant: 0
+
+Tweet count for California.txt 2011
+Relevant: 418 Irrelevant: 43
+
+Tweet count for Missouri.txt 2011
+Relevant: 71 Irrelevant: 8
+
+Tweet count for alt_Minnesota.txt 2011
+Relevant: 0 Irrelevant: 1
+
+Tweet count for Louisiana.txt 2011
+Relevant: 215 Irrelevant: 22
+
+Tweet count for Maine.txt 2011
+Relevant: 7 Irrelevant: 0
+
+Tweet count for alt_Colorado.txt 2011
+Relevant: 3 Irrelevant: 2
+
+Tweet count for Kansas.txt 2011
+Relevant: 20 Irrelevant: 10
+
+Tweet count for New Jersey.txt 2011
+Relevant: 299 Irrelevant: 54
+
+Tweet count for alt_Alaska.txt 2011
+Relevant: 0 Irrelevant: 0
+
+Tweet count for alt_Arkansas.txt 2011
+Relevant: 6 Irrelevant: 7
+
+Tweet count for South Carolina.txt 2011
+Relevant: 105 Irrelevant: 37
+
+Tweet count for alt_Winsconsin.txt 2011
+Relevant: 1 Irrelevant: 3
+
+Tweet count for alt_Georgia.txt 2011
+Relevant: 12 Irrelevant: 8
+
+Tweet count for Illinois.txt 2011
+Relevant: 195 Irrelevant: 21
+
+Tweet count for alt_New Jersey.txt 2011
+Relevant: 8 Irrelevant: 12
+
+Tweet count for Tennessee.txt 2011
+Relevant: 93 Irrelevant: 47
+
+Tweet count for Arkansas.txt 2011
+Relevant: 41 Irrelevant: 10
+
+Tweet count for alt_Maryland.txt 2011
+Relevant: 10 Irrelevant: 3
+
+Tweet count for Connecticut.txt 2011
+Relevant: 72 Irrelevant: 10
+
+Tweet count for Utah.txt 2011
+Relevant: 20 Irrelevant: 0
+
+Tweet count for Alabama.txt 2011
+Relevant: 2 Irrelevant: 0
+
+Tweet count for Washington.txt 2011
+Relevant: 54 Irrelevant: 21
+
+Tweet count for Pennsylvania.txt 2011
+Relevant: 312 Irrelevant: 91
+
+Tweet count for alt_Rhode Island.txt 2011
+Relevant: 3 Irrelevant: 0
+
+Tweet count for alt_New Mexico.txt 2011
+Relevant: 0 Irrelevant: 2
+
+Tweet count for Idaho.txt 2011
+Relevant: 0 Irrelevant: 1
+
+Tweet count for alt_Ohio.txt 2011
+Relevant: 1 Irrelevant: 6
+
+Tweet count for alt_Mississippi.txt 2011
+Relevant: 1 Irrelevant: 6
+
+Tweet count for alt_Washington.txt 2011
+Relevant: 0 Irrelevant: 2
+
+Tweet count for alt_Idaho.txt 2011
+Relevant: 0 Irrelevant: 0
+
+Tweet count for North Carolina.txt 2011
+Relevant: 155 Irrelevant: 33
+
+Tweet count for New York.txt 2011
+Relevant: 209 Irrelevant: 77
+
+Tweet count for Winsconsin.txt 2011
+Relevant: 45 Irrelevant: 6
+
+Tweet count for alt_Hawaii.txt 2011
+Relevant: 0 Irrelevant: 1
+
+Tweet count for North Dakota.txt 2011
+Relevant: 1 Irrelevant: 0
+
+Tweet count for Vermont.txt 2011
+Relevant: 4 Irrelevant: 3
+
+Tweet count for Puerto Rico.txt 2011
+Relevant: 13 Irrelevant: 0
+
+Tweet count for alt_Connecticut.txt 2011
+Relevant: 3 Irrelevant: 2
+
+Tweet count for District Of Columbia.txt 2011
+Relevant: 78 Irrelevant: 22
+
+Tweet count for Nevada.txt 2012
+Relevant: 74 Irrelevant: 4
+
+Tweet count for alt_Kansas.txt 2012
+Relevant: 3 Irrelevant: 4
+
+Tweet count for New Hampshire.txt 2012
+Relevant: 15 Irrelevant: 2
+
+Tweet count for alt_South Dakota.txt 2012
+Relevant: 0 Irrelevant: 0
+
+Tweet count for alt_Montana.txt 2012
+Relevant: 0 Irrelevant: 1
+
+Tweet count for Nebraska.txt 2012
+Relevant: 29 Irrelevant: 16
+
+Tweet count for alt_Missouri.txt 2012
+Relevant: 2 Irrelevant: 1
+
+Tweet count for alt_Alabama.txt 2012
+Relevant: 18 Irrelevant: 6
+
+Tweet count for alt_Maine.txt 2012
+Relevant: 0 Irrelevant: 0
+
+Tweet count for alt_Oregon.txt 2012
+Relevant: 4 Irrelevant: 2
+
+Tweet count for Rhode Island.txt 2012
+Relevant: 34 Irrelevant: 16
+
+Tweet count for Delaware.txt 2012
+Relevant: 46 Irrelevant: 9
+
+Tweet count for alt_North Dakota.txt 2012
+Relevant: 0 Irrelevant: 0
+
+Tweet count for Iowa.txt 2012
+Relevant: 43 Irrelevant: 4
+
+Tweet count for South Dakota.txt 2012
+Relevant: 5 Irrelevant: 1
+
+Tweet count for Texas.txt 2012
+Relevant: 1111 Irrelevant: 303
+
+Tweet count for alt_Florida.txt 2012
+Relevant: 8 Irrelevant: 19
+
+Tweet count for alt_Puerto Rico.txt 2012
+Relevant: 0 Irrelevant: 0
+
+Tweet count for Mississippi.txt 2012
+Relevant: 170 Irrelevant: 8
+
+Tweet count for alt_New York.txt 2012
+Relevant: 7 Irrelevant: 24
+
+Tweet count for alt_Arizona.txt 2012
+Relevant: 3 Irrelevant: 3
+
+Tweet count for alt_Indiana.txt 2012
+Relevant: 5 Irrelevant: 5
+
+Tweet count for alt_Nevada.txt 2012
+Relevant: 2 Irrelevant: 3
+
+Tweet count for alt_Tennessee.txt 2012
+Relevant: 4 Irrelevant: 13
+
+Tweet count for alt_Michigan.txt 2012
+Relevant: 1 Irrelevant: 2
+
+Tweet count for Minnesota.txt 2012
+Relevant: 74 Irrelevant: 11
+
+Tweet count for alt_Oklahoma.txt 2012
+Relevant: 1 Irrelevant: 2
+
+Tweet count for Ohio.txt 2012
+Relevant: 391 Irrelevant: 55
+
+Tweet count for Michigan.txt 2012
+Relevant: 276 Irrelevant: 52
+
+Tweet count for Georgia.txt 2012
+Relevant: 493 Irrelevant: 118
+
+Tweet count for Oregon.txt 2012
+Relevant: 106 Irrelevant: 11
+
+Tweet count for Colorado.txt 2012
+Relevant: 57 Irrelevant: 17
+
+Tweet count for alt_District Of Columbia.txt 2012
+Relevant: 1 Irrelevant: 3
+
+Tweet count for alt_California.txt 2012
+Relevant: 14 Irrelevant: 16
+
+Tweet count for Maryland.txt 2012
+Relevant: 322 Irrelevant: 80
+
+Tweet count for alt_Wyoming.txt 2012
+Relevant: 0 Irrelevant: 1
+
+Tweet count for Florida.txt 2012
+Relevant: 464 Irrelevant: 154
+
+Tweet count for Arizona.txt 2012
+Relevant: 161 Irrelevant: 31
+
+Tweet count for alt_Massachusetts.txt 2012
+Relevant: 9 Irrelevant: 7
+
+Tweet count for alt_Virginia.txt 2012
+Relevant: 9 Irrelevant: 1
+
+Tweet count for Hawaii.txt 2012
+Relevant: 22 Irrelevant: 1
+
+Tweet count for Indiana.txt 2012
+Relevant: 196 Irrelevant: 17
+
+Tweet count for Wyoming.txt 2012
+Relevant: 3 Irrelevant: 4
+
+Tweet count for alt_South Carolina.txt 2012
+Relevant: 7 Irrelevant: 5
+
+Tweet count for alt_Delaware.txt 2012
+Relevant: 4 Irrelevant: 4
+
+Tweet count for alt_Iowa.txt 2012
+Relevant: 2 Irrelevant: 1
+
+Tweet count for alt_New Hampshire.txt 2012
+Relevant: 0 Irrelevant: 0
+
+Tweet count for alt_Vermont.txt 2012
+Relevant: 0 Irrelevant: 0
+
+Tweet count for Massachusetts.txt 2012
+Relevant: 227 Irrelevant: 25
+
+Tweet count for alt_Pennsylvania.txt 2012
+Relevant: 8 Irrelevant: 9
+
+Tweet count for Montana.txt 2012
+Relevant: 7 Irrelevant: 2
+
+Tweet count for alt_Texas.txt 2012
+Relevant: 36 Irrelevant: 35
+
+Tweet count for alt_Utah.txt 2012
+Relevant: 4 Irrelevant: 3
+
+Tweet count for alt_Illinois.txt 2012
+Relevant: 7 Irrelevant: 15
+
+Tweet count for alt_Kentucky.txt 2012
+Relevant: 3 Irrelevant: 3
+
+Tweet count for alt_Louisiana.txt 2012
+Relevant: 19 Irrelevant: 60
+
+Tweet count for alt_West Virginia.txt 2012
+Relevant: 1 Irrelevant: 2
+
+Tweet count for Virginia.txt 2012
+Relevant: 188 Irrelevant: 33
+
+Tweet count for New Mexico.txt 2012
+Relevant: 45 Irrelevant: 3
+
+Tweet count for alt_North Carolina.txt 2012
+Relevant: 7 Irrelevant: 8
+
+Tweet count for alt_Nebraska.txt 2012
+Relevant: 1 Irrelevant: 3
+
+Tweet count for Alaska.txt 2012
+Relevant: 2 Irrelevant: 0
+
+Tweet count for Kentucky.txt 2012
+Relevant: 128 Irrelevant: 18
+
+Tweet count for Oklahoma.txt 2012
+Relevant: 93 Irrelevant: 17
+
+Tweet count for West Virginia.txt 2012
+Relevant: 34 Irrelevant: 14
+
+Tweet count for California.txt 2012
+Relevant: 771 Irrelevant: 84
+
+Tweet count for Missouri.txt 2012
+Relevant: 183 Irrelevant: 23
+
+Tweet count for alt_Minnesota.txt 2012
+Relevant: 3 Irrelevant: 2
+
+Tweet count for Louisiana.txt 2012
+Relevant: 382 Irrelevant: 39
+
+Tweet count for Maine.txt 2012
+Relevant: 13 Irrelevant: 0
+
+Tweet count for alt_Colorado.txt 2012
+Relevant: 0 Irrelevant: 5
+
+Tweet count for Kansas.txt 2012
+Relevant: 101 Irrelevant: 18
+
+Tweet count for New Jersey.txt 2012
+Relevant: 302 Irrelevant: 46
+
+Tweet count for alt_Alaska.txt 2012
+Relevant: 0 Irrelevant: 0
+
+Tweet count for alt_Arkansas.txt 2012
+Relevant: 11 Irrelevant: 3
+
+Tweet count for South Carolina.txt 2012
+Relevant: 253 Irrelevant: 79
+
+Tweet count for alt_Winsconsin.txt 2012
+Relevant: 3 Irrelevant: 1
+
+Tweet count for alt_Georgia.txt 2012
+Relevant: 4 Irrelevant: 10
+
+Tweet count for Illinois.txt 2012
+Relevant: 305 Irrelevant: 45
+
+Tweet count for alt_New Jersey.txt 2012
+Relevant: 6 Irrelevant: 6
+
+Tweet count for Tennessee.txt 2012
+Relevant: 169 Irrelevant: 67
+
+Tweet count for Arkansas.txt 2012
+Relevant: 103 Irrelevant: 14
+
+Tweet count for alt_Maryland.txt 2012
+Relevant: 12 Irrelevant: 10
+
+Tweet count for Connecticut.txt 2012
+Relevant: 183 Irrelevant: 19
+
+Tweet count for Utah.txt 2012
+Relevant: 45 Irrelevant: 6
+
+Tweet count for Alabama.txt 2012
+Relevant: 7 Irrelevant: 0
+
+Tweet count for Washington.txt 2012
+Relevant: 106 Irrelevant: 21
+
+Tweet count for Pennsylvania.txt 2012
+Relevant: 378 Irrelevant: 123
+
+Tweet count for alt_Rhode Island.txt 2012
+Relevant: 1 Irrelevant: 2
+
+Tweet count for alt_New Mexico.txt 2012
+Relevant: 2 Irrelevant: 1
+
+Tweet count for Idaho.txt 2012
+Relevant: 9 Irrelevant: 1
+
+Tweet count for alt_Ohio.txt 2012
+Relevant: 12 Irrelevant: 12
+
+Tweet count for alt_Mississippi.txt 2012
+Relevant: 5 Irrelevant: 2
+
+Tweet count for alt_Washington.txt 2012
+Relevant: 2 Irrelevant: 5
+
+Tweet count for alt_Idaho.txt 2012
+Relevant: 1 Irrelevant: 0
+
+Tweet count for North Carolina.txt 2012
+Relevant: 435 Irrelevant: 81
+
+Tweet count for New York.txt 2012
+Relevant: 472 Irrelevant: 75
+
+Tweet count for Winsconsin.txt 2012
+Relevant: 95 Irrelevant: 14
+
+Tweet count for alt_Hawaii.txt 2012
+Relevant: 1 Irrelevant: 0
+
+Tweet count for North Dakota.txt 2012
+Relevant: 7 Irrelevant: 0
+
+Tweet count for Vermont.txt 2012
+Relevant: 7 Irrelevant: 0
+
+Tweet count for Puerto Rico.txt 2012
+Relevant: 11 Irrelevant: 0
+
+Tweet count for alt_Connecticut.txt 2012
+Relevant: 5 Irrelevant: 6
+
+Tweet count for District Of Columbia.txt 2012
+Relevant: 145 Irrelevant: 47
+
+Tweet count for Nevada.txt 2013
+Relevant: 178 Irrelevant: 13
+
+Tweet count for alt_Kansas.txt 2013
+Relevant: 4 Irrelevant: 6
+
+Tweet count for New Hampshire.txt 2013
+Relevant: 61 Irrelevant: 0
+
+Tweet count for alt_South Dakota.txt 2013
+Relevant: 0 Irrelevant: 0
+
+Tweet count for alt_Montana.txt 2013
+Relevant: 1 Irrelevant: 0
+
+Tweet count for Nebraska.txt 2013
+Relevant: 92 Irrelevant: 15
+
+Tweet count for alt_Missouri.txt 2013
+Relevant: 8 Irrelevant: 6
+
+Tweet count for alt_Alabama.txt 2013
+Relevant: 5 Irrelevant: 13
+
+Tweet count for alt_Maine.txt 2013
+Relevant: 0 Irrelevant: 4
+
+Tweet count for alt_Oregon.txt 2013
+Relevant: 3 Irrelevant: 7
+
+Tweet count for Rhode Island.txt 2013
+Relevant: 90 Irrelevant: 12
+
+Tweet count for Delaware.txt 2013
+Relevant: 81 Irrelevant: 21
+
+Tweet count for alt_North Dakota.txt 2013
+Relevant: 0 Irrelevant: 0
+
+Tweet count for Iowa.txt 2013
+Relevant: 121 Irrelevant: 10
+
+Tweet count for South Dakota.txt 2013
+Relevant: 15 Irrelevant: 3
+
+Tweet count for Texas.txt 2013
+Relevant: 2230 Irrelevant: 413
+
+Tweet count for alt_Florida.txt 2013
+Relevant: 13 Irrelevant: 18
+
+Tweet count for alt_Puerto Rico.txt 2013
+Relevant: 0 Irrelevant: 0
+
+Tweet count for Mississippi.txt 2013
+Relevant: 202 Irrelevant: 24
+
+Tweet count for alt_New York.txt 2013
+Relevant: 30 Irrelevant: 34
+
+Tweet count for alt_Arizona.txt 2013
+Relevant: 8 Irrelevant: 10
+
+Tweet count for alt_Indiana.txt 2013
+Relevant: 9 Irrelevant: 8
+
+Tweet count for alt_Nevada.txt 2013
+Relevant: 4 Irrelevant: 1
+
+Tweet count for alt_Tennessee.txt 2013
+Relevant: 6 Irrelevant: 5
+
+Tweet count for alt_Michigan.txt 2013
+Relevant: 11 Irrelevant: 17
+
+Tweet count for Minnesota.txt 2013
+Relevant: 122 Irrelevant: 13
+
+Tweet count for alt_Oklahoma.txt 2013
+Relevant: 7 Irrelevant: 8
+
+Tweet count for Ohio.txt 2013
+Relevant: 824 Irrelevant: 92
+
+Tweet count for Michigan.txt 2013
+Relevant: 541 Irrelevant: 80
+
+Tweet count for Georgia.txt 2013
+Relevant: 647 Irrelevant: 179
+
+Tweet count for Oregon.txt 2013
+Relevant: 159 Irrelevant: 14
+
+Tweet count for Colorado.txt 2013
+Relevant: 139 Irrelevant: 25
+
+Tweet count for alt_District Of Columbia.txt 2013
+Relevant: 0 Irrelevant: 7
+
+Tweet count for alt_California.txt 2013
+Relevant: 49 Irrelevant: 54
+
+Tweet count for Maryland.txt 2013
+Relevant: 409 Irrelevant: 107
+
+Tweet count for alt_Wyoming.txt 2013
+Relevant: 0 Irrelevant: 0
+
+Tweet count for Florida.txt 2013
+Relevant: 692 Irrelevant: 206
+
+Tweet count for Arizona.txt 2013
+Relevant: 327 Irrelevant: 51
+
+Tweet count for alt_Massachusetts.txt 2013
+Relevant: 9 Irrelevant: 8
+
+Tweet count for alt_Virginia.txt 2013
+Relevant: 20 Irrelevant: 14
+
+Tweet count for Hawaii.txt 2013
+Relevant: 37 Irrelevant: 2
+
+Tweet count for Indiana.txt 2013
+Relevant: 304 Irrelevant: 49
+
+Tweet count for Wyoming.txt 2013
+Relevant: 18 Irrelevant: 0
+
+Tweet count for alt_South Carolina.txt 2013
+Relevant: 13 Irrelevant: 11
+
+Tweet count for alt_Delaware.txt 2013
+Relevant: 1 Irrelevant: 1
+
+Tweet count for alt_Iowa.txt 2013
+Relevant: 2 Irrelevant: 0
+
+Tweet count for alt_New Hampshire.txt 2013
+Relevant: 3 Irrelevant: 3
+
+Tweet count for alt_Vermont.txt 2013
+Relevant: 0 Irrelevant: 1
+
+Tweet count for Massachusetts.txt 2013
+Relevant: 419 Irrelevant: 32
+
+Tweet count for alt_Pennsylvania.txt 2013
+Relevant: 19 Irrelevant: 13
+
+Tweet count for Montana.txt 2013
+Relevant: 9 Irrelevant: 1
+
+Tweet count for alt_Texas.txt 2013
+Relevant: 57 Irrelevant: 81
+
+Tweet count for alt_Utah.txt 2013
+Relevant: 2 Irrelevant: 1
+
+Tweet count for alt_Illinois.txt 2013
+Relevant: 23 Irrelevant: 14
+
+Tweet count for alt_Kentucky.txt 2013
+Relevant: 4 Irrelevant: 5
+
+Tweet count for alt_Louisiana.txt 2013
+Relevant: 5 Irrelevant: 18
+
+Tweet count for alt_West Virginia.txt 2013
+Relevant: 1 Irrelevant: 5
+
+Tweet count for Virginia.txt 2013
+Relevant: 391 Irrelevant: 87
+
+Tweet count for New Mexico.txt 2013
+Relevant: 82 Irrelevant: 7
+
+Tweet count for alt_North Carolina.txt 2013
+Relevant: 9 Irrelevant: 15
+
+Tweet count for alt_Nebraska.txt 2013
+Relevant: 2 Irrelevant: 1
+
+Tweet count for Alaska.txt 2013
+Relevant: 3 Irrelevant: 0
+
+Tweet count for Kentucky.txt 2013
+Relevant: 250 Irrelevant: 69
+
+Tweet count for move_files.txt 2013
+Relevant: 0 Irrelevant: 0
+
+Tweet count for Oklahoma.txt 2013
+Relevant: 213 Irrelevant: 34
+
+Tweet count for West Virginia.txt 2013
+Relevant: 84 Irrelevant: 8
+
+Tweet count for California.txt 2013
+Relevant: 1716 Irrelevant: 159
+
+Tweet count for Missouri.txt 2013
+Relevant: 243 Irrelevant: 15
+
+Tweet count for alt_Minnesota.txt 2013
+Relevant: 2 Irrelevant: 7
+
+Tweet count for Louisiana.txt 2013
+Relevant: 378 Irrelevant: 82
+
+Tweet count for Maine.txt 2013
+Relevant: 29 Irrelevant: 2
+
+Tweet count for alt_Colorado.txt 2013
+Relevant: 5 Irrelevant: 4
+
+Tweet count for Kansas.txt 2013
+Relevant: 233 Irrelevant: 42
+
+Tweet count for New Jersey.txt 2013
+Relevant: 713 Irrelevant: 108
+
+Tweet count for alt_Alaska.txt 2013
+Relevant: 0 Irrelevant: 0
+
+Tweet count for alt_Arkansas.txt 2013
+Relevant: 3 Irrelevant: 5
+
+Tweet count for South Carolina.txt 2013
+Relevant: 380 Irrelevant: 87
+
+Tweet count for alt_Winsconsin.txt 2013
+Relevant: 3 Irrelevant: 2
+
+Tweet count for alt_Georgia.txt 2013
+Relevant: 23 Irrelevant: 12
+
+Tweet count for Illinois.txt 2013
+Relevant: 578 Irrelevant: 70
+
+Tweet count for alt_New Jersey.txt 2013
+Relevant: 17 Irrelevant: 16
+
+Tweet count for Tennessee.txt 2013
+Relevant: 218 Irrelevant: 110
+
+Tweet count for Arkansas.txt 2013
+Relevant: 162 Irrelevant: 24
+
+Tweet count for alt_Maryland.txt 2013
+Relevant: 11 Irrelevant: 12
+
+Tweet count for Connecticut.txt 2013
+Relevant: 287 Irrelevant: 26
+
+Tweet count for Utah.txt 2013
+Relevant: 61 Irrelevant: 4
+
+Tweet count for Alabama.txt 2013
+Relevant: 8 Irrelevant: 0
+
+Tweet count for Washington.txt 2013
+Relevant: 200 Irrelevant: 17
+
+Tweet count for Pennsylvania.txt 2013
+Relevant: 762 Irrelevant: 167
+
+Tweet count for alt_Rhode Island.txt 2013
+Relevant: 0 Irrelevant: 1
+
+Tweet count for alt_New Mexico.txt 2013
+Relevant: 5 Irrelevant: 3
+
+Tweet count for Idaho.txt 2013
+Relevant: 15 Irrelevant: 3
+
+Tweet count for alt_Ohio.txt 2013
+Relevant: 33 Irrelevant: 30
+
+Tweet count for alt_Mississippi.txt 2013
+Relevant: 1 Irrelevant: 2
+
+Tweet count for alt_Washington.txt 2013
+Relevant: 3 Irrelevant: 5
+
+Tweet count for alt_Idaho.txt 2013
+Relevant: 0 Irrelevant: 2
+
+Tweet count for North Carolina.txt 2013
+Relevant: 542 Irrelevant: 96
+
+Tweet count for New York.txt 2013
+Relevant: 958 Irrelevant: 144
+
+Tweet count for Winsconsin.txt 2013
+Relevant: 186 Irrelevant: 24
+
+Tweet count for alt_Hawaii.txt 2013
+Relevant: 0 Irrelevant: 1
+
+Tweet count for North Dakota.txt 2013
+Relevant: 14 Irrelevant: 1
+
+Tweet count for Vermont.txt 2013
+Relevant: 10 Irrelevant: 1
+
+Tweet count for Puerto Rico.txt 2013
+Relevant: 27 Irrelevant: 4
+
+Tweet count for alt_Connecticut.txt 2013
+Relevant: 11 Irrelevant: 1
+
+Tweet count for District Of Columbia.txt 2013
+Relevant: 89 Irrelevant: 26
+
+Tweet count for Nevada.txt 2014
+Relevant: 192 Irrelevant: 10
+
+Tweet count for alt_Kansas.txt 2014
+Relevant: 6 Irrelevant: 1
+
+Tweet count for New Hampshire.txt 2014
+Relevant: 45 Irrelevant: 0
+
+Tweet count for alt_South Dakota.txt 2014
+Relevant: 1 Irrelevant: 1
+
+Tweet count for alt_Montana.txt 2014
+Relevant: 0 Irrelevant: 0
+
+Tweet count for Nebraska.txt 2014
+Relevant: 91 Irrelevant: 27
+
+Tweet count for alt_Missouri.txt 2014
+Relevant: 11 Irrelevant: 6
+
+Tweet count for alt_Alabama.txt 2014
+Relevant: 8 Irrelevant: 19
+
+Tweet count for alt_Maine.txt 2014
+Relevant: 1 Irrelevant: 0
+
+Tweet count for alt_Oregon.txt 2014
+Relevant: 2 Irrelevant: 7
+
+Tweet count for Rhode Island.txt 2014
+Relevant: 78 Irrelevant: 4
+
+Tweet count for Delaware.txt 2014
+Relevant: 66 Irrelevant: 34
+
+Tweet count for alt_North Dakota.txt 2014
+Relevant: 0 Irrelevant: 0
+
+Tweet count for Iowa.txt 2014
+Relevant: 120 Irrelevant: 11
+
+Tweet count for South Dakota.txt 2014
+Relevant: 15 Irrelevant: 1
+
+Tweet count for Texas.txt 2014
+Relevant: 2894 Irrelevant: 334
+
+Tweet count for alt_Florida.txt 2014
+Relevant: 43 Irrelevant: 36
+
+Tweet count for alt_Puerto Rico.txt 2014
+Relevant: 1 Irrelevant: 3
+
+Tweet count for Mississippi.txt 2014
+Relevant: 150 Irrelevant: 32
+
+Tweet count for alt_New York.txt 2014
+Relevant: 47 Irrelevant: 45
+
+Tweet count for alt_Arizona.txt 2014
+Relevant: 25 Irrelevant: 6
+
+Tweet count for alt_Indiana.txt 2014
+Relevant: 18 Irrelevant: 8
+
+Tweet count for alt_Nevada.txt 2014
+Relevant: 10 Irrelevant: 5
+
+Tweet count for alt_Tennessee.txt 2014
+Relevant: 16 Irrelevant: 7
+
+Tweet count for alt_Michigan.txt 2014
+Relevant: 16 Irrelevant: 21
+
+Tweet count for Minnesota.txt 2014
+Relevant: 159 Irrelevant: 24
+
+Tweet count for alt_Oklahoma.txt 2014
+Relevant: 7 Irrelevant: 12
+
+Tweet count for Ohio.txt 2014
+Relevant: 990 Irrelevant: 86
+
+Tweet count for Michigan.txt 2014
+Relevant: 692 Irrelevant: 82
+
+Tweet count for Georgia.txt 2014
+Relevant: 843 Irrelevant: 145
+
+Tweet count for Oregon.txt 2014
+Relevant: 200 Irrelevant: 18
+
+Tweet count for Colorado.txt 2014
+Relevant: 218 Irrelevant: 20
+
+Tweet count for alt_District Of Columbia.txt 2014
+Relevant: 3 Irrelevant: 4
+
+Tweet count for alt_California.txt 2014
+Relevant: 115 Irrelevant: 56
+
+Tweet count for Maryland.txt 2014
+Relevant: 463 Irrelevant: 66
+
+Tweet count for alt_Wyoming.txt 2014
+Relevant: 1 Irrelevant: 1
+
+Tweet count for Florida.txt 2014
+Relevant: 1045 Irrelevant: 205
+
+Tweet count for Arizona.txt 2014
+Relevant: 527 Irrelevant: 35
+
+Tweet count for alt_Massachusetts.txt 2014
+Relevant: 23 Irrelevant: 22
+
+Tweet count for alt_Virginia.txt 2014
+Relevant: 9 Irrelevant: 20
+
+Tweet count for Hawaii.txt 2014
+Relevant: 56 Irrelevant: 1
+
+Tweet count for Indiana.txt 2014
+Relevant: 354 Irrelevant: 28
+
+Tweet count for Wyoming.txt 2014
+Relevant: 4 Irrelevant: 2
+
+Tweet count for alt_South Carolina.txt 2014
+Relevant: 7 Irrelevant: 16
+
+Tweet count for alt_Delaware.txt 2014
+Relevant: 1 Irrelevant: 0
+
+Tweet count for alt_Iowa.txt 2014
+Relevant: 6 Irrelevant: 3
+
+Tweet count for alt_New Hampshire.txt 2014
+Relevant: 2 Irrelevant: 0
+
+Tweet count for alt_Vermont.txt 2014
+Relevant: 0 Irrelevant: 0
+
+Tweet count for Massachusetts.txt 2014
+Relevant: 458 Irrelevant: 37
+
+Tweet count for alt_Pennsylvania.txt 2014
+Relevant: 36 Irrelevant: 22
+
+Tweet count for Montana.txt 2014
+Relevant: 11 Irrelevant: 1
+
+Tweet count for alt_Texas.txt 2014
+Relevant: 87 Irrelevant: 95
+
+Tweet count for alt_Utah.txt 2014
+Relevant: 2 Irrelevant: 1
+
+Tweet count for alt_Illinois.txt 2014
+Relevant: 27 Irrelevant: 23
+
+Tweet count for alt_Kentucky.txt 2014
+Relevant: 24 Irrelevant: 11
+
+Tweet count for alt_Louisiana.txt 2014
+Relevant: 9 Irrelevant: 12
+
+Tweet count for alt_West Virginia.txt 2014
+Relevant: 6 Irrelevant: 2
+
+Tweet count for Virginia.txt 2014
+Relevant: 555 Irrelevant: 54
+
+Tweet count for New Mexico.txt 2014
+Relevant: 100 Irrelevant: 9
+
+Tweet count for alt_North Carolina.txt 2014
+Relevant: 12 Irrelevant: 18
+
+Tweet count for alt_Nebraska.txt 2014
+Relevant: 0 Irrelevant: 5
+
+Tweet count for Alaska.txt 2014
+Relevant: 0 Irrelevant: 1
+
+Tweet count for Kentucky.txt 2014
+Relevant: 224 Irrelevant: 50
+
+Tweet count for Oklahoma.txt 2014
+Relevant: 305 Irrelevant: 30
+
+Tweet count for West Virginia.txt 2014
+Relevant: 68 Irrelevant: 2
+
+Tweet count for California.txt 2014
+Relevant: 2857 Irrelevant: 173
+
+Tweet count for Missouri.txt 2014
+Relevant: 277 Irrelevant: 26
+
+Tweet count for alt_Minnesota.txt 2014
+Relevant: 9 Irrelevant: 5
+
+Tweet count for Louisiana.txt 2014
+Relevant: 595 Irrelevant: 105
+
+Tweet count for Maine.txt 2014
+Relevant: 43 Irrelevant: 5
+
+Tweet count for alt_Colorado.txt 2014
+Relevant: 18 Irrelevant: 2
+
+Tweet count for Kansas.txt 2014
+Relevant: 198 Irrelevant: 42
+
+Tweet count for New Jersey.txt 2014
+Relevant: 973 Irrelevant: 97
+
+Tweet count for alt_Alaska.txt 2014
+Relevant: 0 Irrelevant: 0
+
+Tweet count for alt_Arkansas.txt 2014
+Relevant: 9 Irrelevant: 2
+
+Tweet count for South Carolina.txt 2014
+Relevant: 401 Irrelevant: 73
+
+Tweet count for alt_Winsconsin.txt 2014
+Relevant: 4 Irrelevant: 7
+
+Tweet count for alt_Georgia.txt 2014
+Relevant: 21 Irrelevant: 29
+
+Tweet count for Illinois.txt 2014
+Relevant: 819 Irrelevant: 82
+
+Tweet count for alt_New Jersey.txt 2014
+Relevant: 32 Irrelevant: 21
+
+Tweet count for Tennessee.txt 2014
+Relevant: 299 Irrelevant: 61
+
+Tweet count for Arkansas.txt 2014
+Relevant: 180 Irrelevant: 23
+
+Tweet count for alt_Maryland.txt 2014
+Relevant: 17 Irrelevant: 14
+
+Tweet count for Connecticut.txt 2014
+Relevant: 319 Irrelevant: 31
+
+Tweet count for Utah.txt 2014
+Relevant: 110 Irrelevant: 11
+
+Tweet count for Alabama.txt 2014
+Relevant: 11 Irrelevant: 4
+
+Tweet count for Washington.txt 2014
+Relevant: 281 Irrelevant: 25
+
+Tweet count for Pennsylvania.txt 2014
+Relevant: 971 Irrelevant: 95
+
+Tweet count for alt_Rhode Island.txt 2014
+Relevant: 2 Irrelevant: 3
+
+Tweet count for alt_New Mexico.txt 2014
+Relevant: 3 Irrelevant: 0
+
+Tweet count for Idaho.txt 2014
+Relevant: 33 Irrelevant: 2
+
+Tweet count for alt_Ohio.txt 2014
+Relevant: 23 Irrelevant: 21
+
+Tweet count for alt_Mississippi.txt 2014
+Relevant: 5 Irrelevant: 2
+
+Tweet count for alt_Washington.txt 2014
+Relevant: 10 Irrelevant: 7
+
+Tweet count for alt_Idaho.txt 2014
+Relevant: 3 Irrelevant: 1
+
+Tweet count for North Carolina.txt 2014
+Relevant: 605 Irrelevant: 189
+
+Tweet count for New York.txt 2014
+Relevant: 1102 Irrelevant: 81
+
+Tweet count for Winsconsin.txt 2014
+Relevant: 180 Irrelevant: 29
+
+Tweet count for alt_Hawaii.txt 2014
+Relevant: 0 Irrelevant: 0
+
+Tweet count for North Dakota.txt 2014
+Relevant: 17 Irrelevant: 1
+
+Tweet count for Vermont.txt 2014
+Relevant: 17 Irrelevant: 4
+
+Tweet count for Puerto Rico.txt 2014
+Relevant: 34 Irrelevant: 3
+
+Tweet count for alt_Connecticut.txt 2014
+Relevant: 14 Irrelevant: 9
+
+Tweet count for District Of Columbia.txt 2014
+Relevant: 146 Irrelevant: 14
+

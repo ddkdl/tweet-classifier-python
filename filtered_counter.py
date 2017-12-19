@@ -9,11 +9,11 @@ def main(args):
         print "incorrect number of arguments"
         return
 
-    if args != "Asthma" or args != "Cancer" or args != "Diabetes":
+    if args[0] != 'Asthma' and args[0] != 'Cancer' and args[0] != 'Diabetes':
         print "incorrect query"
         return
 
-    query = args
+    query = args[0]
 
     years = {"2010" : list(), "2011" : list(), "2012" : list(), "2013" : list(), "2014" : list()}
 
@@ -31,16 +31,16 @@ def main(args):
             F = 0
             
             for label in labelFile:
-                if label == "1":
+                if label == "1\n":
                     T += 1
                 else:
                     F += 1
             
             outputFile = open("./filtered_labels/" + query + "/stats.txt", "a")
-            outputFile.write("Tweet count for %s\nRelevant: %d Irrelevant: %d\n\n" % (entry, T, F))
+            outputFile.write("Tweet count for %s %s\nRelevant: %d Irrelevant: %d\n\n" % (entry, year, T, F))
 
             outputFile.close()
 
 
 if __name__ == '__main__':
-    main(sys.argv[0:])
+    main(sys.argv[1:])
