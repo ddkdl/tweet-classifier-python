@@ -35,13 +35,16 @@ def main():
             predictionsA = clfA.predict(X)
             predictionsB = clfB.predict(X)
             
-            predictions = predictionsA or predictionsB
-
             outputFile = entry.split(".")[0] + ".txt"
             
             predFile = open("./filtered_labels/Asthma/" + year + "/" + outputFile, "w")
 
-            for prediction in predictions:
+            for i in range( len(predictionsA) ):
+                if predictionsA[i] == -1 and predictionsB[i] == -1:
+                    prediction = -1
+                else:
+                    prediction = 1
+
                 predFile.write("%d\n" % prediction)
 
             predFile.close()

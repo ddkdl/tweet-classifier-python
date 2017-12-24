@@ -7,13 +7,15 @@ from GaussianKernel import GaussianKernel
 def main():
     
     pre = PreProcessor()
-    clf = SVM(kernel=GaussianKernel(5.0), C=1)
+    clfA = SVM(kernel=GaussianKernel(5.0), C=1)
+    clfB = SVM(kernel=GaussianKernel(1.0), C=1)
 
     # Loading training data
     X_train, y_train = pre.loadTrainingSet("./training_data/Cancer_Sample_Tokenized.csv")
 
-    # Training classifier
-    clf.fit(X_train, y_train)
+    # Training classifiers
+    clfA.fit(X_train, y_train)
+    clfB.fit(X_train, y_train)
 
     # Loading raw tweets
     years = {"2010" : list(), "2011" : list(), "2012" : list(), "2013" : list(), "2014" : list()}
@@ -30,13 +32,19 @@ def main():
             print "Classifying %s %s" % (year, entry)
             
             X = pre.loadTestSet("./data/Cancer/" + year + "/" + entry)
-            predictions = clf.predict(X)
+            predictionsA = clfA.predict(X)
+            predictionsB = clfB.predict(X)
             
             outputFile = entry.split(".")[0] + ".txt"
             
             predFile = open("./filtered_labels/Cancer/" + year + "/" + outputFile, "w")
 
-            for prediction in predictions:
+            for i in range( len(predictionsA) ):
+                if predictionsA[i] == -1 and predictionsB[i] == -1:
+                    prediction = -1
+                else:
+                    prediction = 1
+
                 predFile.write("%d\n" % prediction)
 
             predFile.close()
