@@ -1,2 +1,3 @@
 # Tweet Classifier for chronic diseases
-Tweet classifier
+
+Archive of the system. Please see the master branch for up-to-date information
